@@ -2,4 +2,4 @@
 
 ## G
 
-![Same Directory Image](g.png)
+<img src="G.png" alt="Responsive Image" style="max-width: 100%; height: auto;">
